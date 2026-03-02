@@ -1,5 +1,4 @@
-      // Fig. 1.6: fig01_06.cpp
-     // Addition program.
+     // name : abdulahad ; etea :5124772
 #include <iostream>
 using namespace std;
       // function main begins program execution
@@ -22,3 +21,4 @@ int main()
     return 0;   // indicate that program ended successfully
     
     } // end function main
+
