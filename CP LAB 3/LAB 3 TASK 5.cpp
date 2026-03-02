@@ -1,4 +1,4 @@
-
+// name : abdulahad ; etea :5124772
 #include <iostream>
 using namespace std;
 int main()
@@ -18,3 +18,4 @@ else // AGAR PEHLI DONON CONDITIONS SATISFAIED NA HON TU YE LAGAEN GY
 cout<< "is zero";    //  PRINT KARNY K LYE 
 return 0;        // PROGRAM KO END KARNY K LYE 
 }
+
