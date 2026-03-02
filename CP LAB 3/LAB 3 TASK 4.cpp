@@ -1,4 +1,4 @@
-
+// name : abdulahad ; etea :5124772
 #include <iostream>
 using namespace std;
 int main()
@@ -14,3 +14,4 @@ cout<<"you are not eligible";    //  PRINT KRNY K LYE
 
 return 0; // PROGRAM KO KHATAM KARNY K LYE
 }
+
