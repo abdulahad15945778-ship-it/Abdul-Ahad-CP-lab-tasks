@@ -1,4 +1,11 @@
-#include <iostream>
+// Name: Abdul Ahad
+// Department: Electrical Engineering (AI)
+// Registration No: BF25NWELE0692
+// Section: B
+
+
+
+#include <iostream> //header file
 using namespace std;
 int main()
 {
@@ -11,8 +18,9 @@ int q= 0;
 while(q<=e) //while loop ha  /*jab tak q ki value e ka equal nhi ho giya loop chalta raha ga       */
 
 {
-sum += q;
+sum += q; // sum karna ka liya sum+= q ka matlib ha sum = sum + q
 q++;	
 }
 cout<<"sum from 1 to :"	<< e <<" is "<<sum; // output show kara ga
+
 }
